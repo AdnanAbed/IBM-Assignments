@@ -1,1 +1,1 @@
-"These labs are assignments that I completed while studying the **Data Analysis with Python** course that was offered by IBM as part of the **IBM Data Analyst Specialization**.
+These laboratory tasks are assignments I successfully undertook during my enrollment in the **Data Analysis with Python** course provided by IBM as a component of the **IBM Data Analyst Specialization**.
